@@ -3,7 +3,8 @@
 .main{
 	width: 200px;
 	background-color: purple;
-	border-left-width: 5px green;
+	    border-left-width: 5px;
+    border-color: green;
 	padding: 10px
 }
 h1{
